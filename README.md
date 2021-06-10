@@ -25,5 +25,5 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ](https://steamcommunity.com/profiles/76561198950551075)
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepasq&theme=radical&hide=prs,issues,contribs&custom_title=Github%20Stats&)](https://github.com/anuraghazra/github-readme-stats)]
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepasq&theme=radical&hide=prs,issues,contribs&custom_title=Github%20Stats&)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepasq&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
