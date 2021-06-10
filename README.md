@@ -25,5 +25,5 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ](https://steamcommunity.com/profiles/76561198950551075)
 
-<img align ="center" height="150"   alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipepasq&theme=radical&hide=prs,issues,contribs&custom_title=Github%20Stats"/>
-<img align ="center" height="150"  alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepasq&layout=compact&theme=radical"/>
+<img align ="left" height="150"   alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipepasq&theme=radical&hide=prs,issues,contribs&custom_title=Github%20Stats"/>
+<img align ="right" height="150"  alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepasq&layout=compact&theme=radical"/>
