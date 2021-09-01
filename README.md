@@ -1,7 +1,7 @@
 # Hey 😁! Nice to see you.
 
 
-<p>My name is Felipe Pasqua, and i'm currently studying computer engineering at UNIFEI in the city of Itajubá.</p>
+<p>My name is Felipe Pasqua, and i'm currently working as a front end developer for CrediHome and also studying computer engineering at UNIFEI in the city of Itajubá</p>
 
 
 
