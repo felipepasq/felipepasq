@@ -23,5 +23,5 @@
 ](https://www.linkedin.com/in/felipe-pasqua-rodrigues/)
 
 
-<img align ="left" height="150"   alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipepasq&theme=radical&hide=issues,contribs&custom_title=Github%20Stats"/>
+<img align ="left" height="150"   alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipepasq&theme=radical&hide=issues,contribs&custom_title=Github%20Stats&count_private=true"/>
 <img align ="right" height="150"  alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepasq&layout=compact&theme=radical"/>
