@@ -1,7 +1,7 @@
 # Hey 😁! Nice to see you.
 
 
-<p>My name is Felipe Pasqua, and i'm currently working as a front end developer for CrediHome by Loft and also studying computer engineering at UNIFEI in the city of Itajubá</p>
+<p>My name is Felipe Pasqua, and i'm currently working as a front end developer for Arqgen and looking for become a specialist on ReactJS</p>
 
 
 
